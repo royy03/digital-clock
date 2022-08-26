@@ -7,4 +7,4 @@ time
 To install required external modules
 Run pip install tkinter
 How to run the script
-Execute python3 digital_clock.py
+Execute python3 x.py
